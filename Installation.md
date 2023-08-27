@@ -17,6 +17,12 @@ __https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm
 
 ----
 
+### Install GPU drivers and cuda toolkit:
+
+
+
+
+
 
 
 ```
