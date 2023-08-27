@@ -6,7 +6,7 @@
 
 Install  Windows Subsystem for Linux:
 ```cmd
-wsl --install
+cmd> wsl --install
 ```
 
 
