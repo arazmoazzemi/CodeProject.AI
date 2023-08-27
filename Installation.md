@@ -39,23 +39,19 @@ https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip
 
 ---
 
-### Docker run:
+### Docker pull:
 ```cmd
-
 docker --v
 
-# Simple Docker launch 
-docker run --name CodeProject.AI -d -p 32168:32168 codeproject/ai-server
-
-# cpu lunch
+# pull cpu version 
 docker pull codeproject/ai-server:latest
 
-
-# gpu lunch
+# pull gpu version
 docker pull codeproject/ai-server:gpu
 
 
-
+# Simple Docker launch 
+docker run --name CodeProject.AI -d -p 32168:32168 codeproject/ai-server
 
 
 
