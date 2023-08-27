@@ -21,7 +21,9 @@ __https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm
 
 * Install the CUDA 11.7 Drivers(Nvidia GPU drivers):
 
-
+---
+__https://www.nvidia.com/Download/index.aspx__
+---
 * Install the CUDA Toolkit 11.7:
 
 
