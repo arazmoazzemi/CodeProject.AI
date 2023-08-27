@@ -39,11 +39,10 @@ https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip
 
 ---
 
-
-
-
 ### Docker run:
-```
+```cmd
+
+docker --v
 
 # cpu version
 docker pull codeproject/ai-server:latest
