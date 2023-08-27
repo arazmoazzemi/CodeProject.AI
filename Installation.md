@@ -1,7 +1,8 @@
-# CodeProject.AI Docker Installation
+# CodeProject.AI windows docker Installation
 
 * https://www.codeproject.com/ai/docs/faq/windows-installer.html
 
+Install docker engine on windows
 
 # cpu version
 docker pull codeproject/ai-server:latest
