@@ -23,12 +23,14 @@ __https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm
 
 ---
 __https://www.nvidia.com/Download/index.aspx__
+
 ---
 
 * Install the CUDA Toolkit 11.7:
 
 ---
 https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Windows&target_arch=x86_64
+
 ---
 
 
