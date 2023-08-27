@@ -33,7 +33,12 @@ https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Windows&targ
 
 * Install cuDNN
 
+---
 https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip
+
+---
+
+
 
 
 ### Docker run:
