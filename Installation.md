@@ -5,7 +5,7 @@
 ### Install docker engine on windows
 
 Install  Windows Subsystem for Linux:
-```dos, bat, cmd
+```cmd
 wsl --install
 ```
 
