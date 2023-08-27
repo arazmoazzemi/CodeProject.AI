@@ -2,7 +2,18 @@
 
 * https://www.codeproject.com/ai/docs/faq/windows-installer.html
 
-Install docker engine on windows
+### Install docker engine on windows
+
+_Docker link for download_
+```cmd
+wsl --install
+
+https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module
+```
+
+
+
+```
 
 # cpu version
 docker pull codeproject/ai-server:latest
