@@ -1,5 +1,6 @@
 # CodeProject.AI Docker Installation
-https://www.codeproject.com/ai/docs/faq/windows-installer.html
+
+* https://www.codeproject.com/ai/docs/faq/windows-installer.html
 
 
 # cpu version
