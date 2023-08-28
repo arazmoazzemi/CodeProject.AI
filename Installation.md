@@ -5,7 +5,7 @@
 ---
 1. Install the Nvidia Latest GPU Drivers:
 
-[CUDA 11.7 Drivers](https://www.nvidia.com/Download/index.aspx)
+- [CUDA 11.7 Drivers](https://www.nvidia.com/Download/index.aspx)
 
 ---
 
