@@ -7,6 +7,8 @@
 
 - [CUDA 11.7 Drivers](https://www.nvidia.com/Download/index.aspx)
 
+#### Directx installatin is optional
+
 ---
 
 2. Install the CUDA 11.7 Toolkit:
