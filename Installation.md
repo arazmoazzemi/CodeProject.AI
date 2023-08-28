@@ -3,11 +3,7 @@
 ### Install GPU drivers and cuda toolkit 
 
 1. install nvidia gpu driver
-
-
-
-
-* Install the CUDA 11.7 Drivers(Nvidia GPU drivers):
+- Install the CUDA 11.7 Drivers(Nvidia GPU drivers):
 
 ---
 __https://www.nvidia.com/Download/index.aspx__
