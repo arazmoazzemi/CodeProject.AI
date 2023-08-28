@@ -23,7 +23,7 @@
 
 ---
 
-4. install visual studio IDE
+4. install visual studio IDE:
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
@@ -73,21 +73,7 @@ __https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm
 
 
 
-01- install nvidia gpu driver (2 drivers)
 
-02- install directx
-
-
-03-install visual studio IDE
-
-https://visualstudio.microsoft.com/
-
-checkbox >>> Desktop develepment with C++
-
-
-04- install nvidia toolkit
-
-05- install nvidia cudnn script
 
 
 
