@@ -7,7 +7,7 @@
 
 - [CUDA 11.7 Drivers](https://www.nvidia.com/Download/index.aspx)
 
-#### Directx installatin is optional
+- #### Directx installatin is optional
 
 ---
 
