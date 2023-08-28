@@ -25,7 +25,9 @@
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
-- Install  < Desktop develepment with C++ > section
+- Install  <<< Desktop develepment with C++ >>> section
+
+---
 
 ### Docker pull:
 ```cmd
