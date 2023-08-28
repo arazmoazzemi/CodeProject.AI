@@ -9,10 +9,9 @@
 
 ---
 
-* Install the CUDA Toolkit 11.7:
+2. Install the CUDA 11.7 Toolkit:
 
----
-https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Windows&target_arch=x86_64
+- [CUDA 11.7 Toolkit](https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Windows&target_arch=x86_64)
 
 ---
 
