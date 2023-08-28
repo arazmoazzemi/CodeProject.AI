@@ -7,7 +7,7 @@
 
 - [CUDA 11.7 Drivers](https://www.nvidia.com/Download/index.aspx)
 
-- [Directx installatin is optional](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
+- [Directx installation is optional](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
 
 ---
 
