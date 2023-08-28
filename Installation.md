@@ -1,8 +1,10 @@
 # CodeProject.AI windows docker Installation
 
-
-
 ### Install GPU drivers and cuda toolkit 
+
+1. install nvidia gpu driver
+
+
 
 
 * Install the CUDA 11.7 Drivers(Nvidia GPU drivers):
