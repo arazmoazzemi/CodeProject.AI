@@ -21,6 +21,12 @@
 
 ---
 
+4. install visual studio IDE
+
+- [Visual Studio](https://visualstudio.microsoft.com/)
+
+- Install  < Desktop develepment with C++ > section
+
 ### Docker pull:
 ```cmd
 docker --v
