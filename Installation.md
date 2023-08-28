@@ -1,19 +1,6 @@
 # CodeProject.AI windows docker Installation
 
-### Install docker engine on windows
 
-Install  Windows Subsystem for Linux:
-```cmd
-wsl --install
-```
-
-
-Docker link for windows hosts download:
-
-----
-__https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module___
-
-----
 
 ### Install GPU drivers and cuda toolkit 
 
@@ -62,7 +49,20 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 ```
 
 
+### Install docker engine on windows
 
+Install  Windows Subsystem for Linux:
+```cmd
+wsl --install
+```
+
+
+Docker link for windows hosts download:
+
+----
+__https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module___
+
+----
 
 
 
