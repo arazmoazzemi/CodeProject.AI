@@ -1,4 +1,4 @@
-# CodeProject.AI windows docker Installation
+# CodeProject.AI windows docker Installation 😄
 
 ### Install GPU drivers and cuda toolkit 
 
