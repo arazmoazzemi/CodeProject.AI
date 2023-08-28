@@ -23,7 +23,7 @@
 
 ---
 
-4. install visual studio IDE:
+4. Install visual studio IDE:
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
