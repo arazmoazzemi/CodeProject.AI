@@ -61,3 +61,26 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
