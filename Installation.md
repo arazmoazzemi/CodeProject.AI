@@ -9,8 +9,6 @@
 ---
 [CUDA 11.7 Drivers](https://www.nvidia.com/Download/index.aspx)
 
-__https://www.nvidia.com/Download/index.aspx__
-
 ---
 
 * Install the CUDA Toolkit 11.7:
