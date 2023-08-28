@@ -37,9 +37,7 @@ Install  Windows Subsystem for Linux:
 ```cmd
 wsl --install
 ```
-
-- Docker link for windows hosts download:
-- [Docker ebgine for windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module)
+- [Install docker engine for windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module)
 
 ----
 
