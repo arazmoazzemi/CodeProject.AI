@@ -25,7 +25,7 @@
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
-- Install  <<< Desktop develepment with C++ >>> section
+- Install   __Desktop develepment with C++__  section
 
 ---
 
