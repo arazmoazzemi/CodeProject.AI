@@ -52,7 +52,7 @@ docker pull codeproject/ai-server:gpu
 <Simple Docker launch >
 docker run --name CodeProject.AI -d -p 32168:32168 codeproject/ai-server
 
-<Simple Docker launch >
+<Simple Docker launch gpu >
 docker run -d -p 32168:32168 --gpus all codeproject/ai-server:gpu
 
 
