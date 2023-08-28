@@ -15,10 +15,9 @@
 
 ---
 
-* Install CUDA Deep Neural Network (cuDNN)
+3. Install CUDA Deep Neural Network with script(cuDNN):
 
----
-https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip
+- [cuDNN](https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip)
 
 ---
 
