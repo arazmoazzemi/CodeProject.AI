@@ -47,8 +47,11 @@ wsl --install
 
 ```cmd
 docker --v
+```
 
+Install  CodeProject.AI cpu version:
 
+```
 <pull cpu version >
 docker pull codeproject/ai-server:latest
 
