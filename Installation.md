@@ -44,9 +44,12 @@ wsl --install
 
 
 ### Docker commands:
+
+----
 ```cmd
 docker --v
 
+----
 <pull cpu version >
 docker pull codeproject/ai-server:latest
 
