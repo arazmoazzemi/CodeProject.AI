@@ -43,7 +43,7 @@ wsl --install
 
 
 
-### Docker pull:
+### Docker commands:
 ```cmd
 docker --v
 
