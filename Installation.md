@@ -41,8 +41,6 @@ wsl --install
 
 ----
 
-
-
 ## Docker commands:
 
 ```cmd
@@ -64,7 +62,7 @@ docker run -d -p 32168:32168 --gpus all codeproject/ai-server:gpu
 <Simple Docker launch cpu >
 docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
-```
+
 
 ----
 
