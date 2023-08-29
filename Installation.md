@@ -49,15 +49,15 @@ wsl --install
 docker --v
 ```
 
-Install  CodeProject.AI cpu version:
-
-```
-<pull cpu version >
+Install  CodeProject.AI **cpu** version:
+```cmd
 docker pull codeproject/ai-server:latest
+```
 
-<pull gpu version>
+Install  CodeProject.AI **gpu** version:
+```cmd
 docker pull codeproject/ai-server:gpu
-
+```
 <Simple Docker launch gpu >
 docker run -d -p 32168:32168 --gpus all codeproject/ai-server:gpu
 
