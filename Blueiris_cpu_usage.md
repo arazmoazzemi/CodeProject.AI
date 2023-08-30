@@ -28,4 +28,6 @@
 
 - Limit decoding unless required
 
+- Windows Power Options
 
+- 
