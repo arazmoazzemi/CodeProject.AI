@@ -30,4 +30,6 @@
 
 - Windows Power Options
 
-- 
+- Antivirus / Antimalware exception
+
+- Disk Defragmenter
