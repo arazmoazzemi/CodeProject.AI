@@ -2,19 +2,20 @@
 
 
 
-1- Direct-to-disc recording
+
+1. Direct-to-disc recording
 
 
-2- Sub Streams
+2. Sub Streams
 
 
-3- Camera frame rates - 15 FPS
+3. Camera frame rates - 15 FPS
 
 
-4- Hardware accelerated decoding
+4. Hardware accelerated decoding
 
 
-5- Run as a service
+5. Run as a service
 
 
 
