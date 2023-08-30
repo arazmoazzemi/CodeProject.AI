@@ -1,6 +1,6 @@
-Introduction
+Introduction [Optimizing Blue Iris's CPU Usage](https://ipcamtalk.com/wiki/optimizing-blue-iris-s-cpu-usage/)
 
-[Optimizing Blue Iris's CPU Usage](https://ipcamtalk.com/wiki/optimizing-blue-iris-s-cpu-usage/)
+
 
 Direct-to-disc recording
 
