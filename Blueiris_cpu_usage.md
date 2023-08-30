@@ -10,7 +10,7 @@ Camera frame rates - 15 FPS
 
 
 
-
+Hardware accelerated decoding
 
 
 
