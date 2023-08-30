@@ -16,9 +16,16 @@
 
 - Hardware accelerated decoding
 
-
 - Run as a service
 
+- Live preview frame rate
 
+- Video scaling
+
+- Text and Graphic Overlays
+
+- Encoder preset
+
+- Limit decoding unless required
 
 
