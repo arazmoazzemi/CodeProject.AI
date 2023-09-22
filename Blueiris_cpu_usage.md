@@ -1,4 +1,4 @@
-# Introduction [Optimizing Blue Iris's CPU Usage](https://ipcamtalk.com/wiki/optimizing-blue-iris-s-cpu-usage/)
+# Introduction for [Optimizing Blue Iris's CPU Usage](https://ipcamtalk.com/wiki/optimizing-blue-iris-s-cpu-usage/)
 
 
 
