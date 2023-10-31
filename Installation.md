@@ -42,6 +42,8 @@ wsl --install
 ----
 
 ## Docker commands:
+[Help](https://hub.docker.com/r/codeproject/ai-server)
+
 
 ```cmd
 docker --v
