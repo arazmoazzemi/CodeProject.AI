@@ -87,6 +87,20 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 ---
 
+http://192.168.0.123:8081
+
+MotionEye stream in BlueIris, you need to add a new camera and make the following settings in the video configuration panel:
+
+Address: Use http:// 192.168.0.123:8081* NB: Use your Pi IP address!
+User: admin and password empty
+Make: Generic/ONVIF
+Model: MJPEG stream
+Media/video/RTSP port: 8081
+Video Main stream: /mjpeg.cgi
+
+
+---
+
 ### BlueIris Hikvision IPCAM Stream Example:
 
 Main : /Streaming/Channels/1
