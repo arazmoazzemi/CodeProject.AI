@@ -103,16 +103,17 @@ Video Main stream: /mjpeg.cgi
 ---
 
 ### BlueIris Hikvision IPCAM Stream Example:
-
+```config
 Main : /Streaming/Channels/1
 Sub : /Streaming/Channels/2
-
+```
 ---
 
 ### BlueIris KDT IPCAM Stream Example:
-
+```config
 Main : /mode=real&idc=1&ids=1
 Sub : /mode=real&idc=1&ids=2
+```
 
 ---
 
