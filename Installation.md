@@ -83,7 +83,7 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 [Download MotionEye ISO](https://github.com/motioneye-project/motioneyeos/releases)
 
-https://photobyte.org/raspberry-pi-motioneyeos-with-blueiris-security/
+[Raspberry Pi MotioneyeOS with BlueIris Security](https://photobyte.org/raspberry-pi-motioneyeos-with-blueiris-security)
 
 Hikvision
 Main : /Streaming/Channels/1
