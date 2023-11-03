@@ -85,9 +85,14 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 [Raspberry Pi MotioneyeOS with BlueIris Security](https://photobyte.org/raspberry-pi-motioneyeos-with-blueiris-security)
 
-Hikvision
+
+
+BlueIris Hikvision Stream Example:
+
 Main : /Streaming/Channels/1
 Sub : /Streaming/Channels/2
+
+
 
 KDT
 Main : /mode=real&idc=1&ids=1
