@@ -33,7 +33,7 @@
 
 ### Install docker engine on windows
 
-Change docker repository, If you can't get latest version of ai-server: 😕
+NOTE! Change docker repository, If you can't get latest version of ai-server: 😕
 #### ***Add repository for docker engine:***
 
 ```cmd
