@@ -140,6 +140,55 @@ Sub : /mode=real&idc=1&ids=2
 ---
 
 
+--------
+https://github.com/wymangr/blueiris_exporter
+
+blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
+
+Example:
+http://127.0.0.1:2112/metrics
+
+
+change port:
+--telemetry.addr=:1234
+
+
+
+Install service:
+
+blueiris_exporter-amd64.exe --service.install --logpath=C:\BlueIris\log --telemetry.addr=:1234
+blueiris_exporter-amd64.exe --service.start
+
+
+
+
+
+docker pull prom/prometheus
+
+
+docker run -d -p 9090:9090 prom/prometheus
+
+
+Change prometheus config and restart:
+
+
+--------------------------------------
+grafana
+
+docker pull grafana/grafana
+
+docker run -d --name=grafana -p 3000:3000 grafana/grafana
+
+
+-------------------------------------
+grafana loki
+
+docker pull grafana/loki
+
+docker run -d --name=loki -p 3100:3100 grafana/loki
+
+
+
 
 
 
