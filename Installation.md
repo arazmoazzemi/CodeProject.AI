@@ -33,7 +33,7 @@
 
 ### Install docker engine on windows
 
-### ***Add repository for docker engine:***
+#### ***Add repository for docker engine:***
 
 ```cmd
 edit C:/Users/Username/.docker/machine/default/config.json
