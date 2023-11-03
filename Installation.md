@@ -140,7 +140,11 @@ Sub : /mode=real&idc=1&ids=2
 ---
 
 
---------
+### BlueIris Monitoring
+
+01 - Enable log at blueiris 
+
+
 https://github.com/wymangr/blueiris_exporter
 
 blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
