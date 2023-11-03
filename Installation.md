@@ -33,6 +33,22 @@
 
 ### Install docker engine on windows
 
+### ***Add repository for docker engine:***
+
+```cmd
+edit C:/Users/Username/.docker/machine/default/config.json
+add the registry : "InsecureRegistry": ["x.x.x.x:port"]
+
+
+Example :
+add the registry : "registry-mirrors": ["https://docker.host:5000"]
+
+restart docker (see comment below)*
+restart windows (there must be a better way ;-)
+docker login x.x.x.x:port
+```
+
+
 Install  Windows Subsystem for Linux:
 ```cmd
 wsl --install
