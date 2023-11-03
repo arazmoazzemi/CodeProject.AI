@@ -91,13 +91,14 @@ http://192.168.0.123:8081
 
 MotionEye stream in BlueIris, you need to add a new camera and make the following settings in the video configuration panel:
 
+```config
 Address: Use http:// 192.168.0.123:8081* NB: Use your Pi IP address!
 User: admin and password empty
 Make: Generic/ONVIF
 Model: MJPEG stream
 Media/video/RTSP port: 8081
 Video Main stream: /mjpeg.cgi
-
+```
 
 ---
 
