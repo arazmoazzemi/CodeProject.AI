@@ -54,7 +54,7 @@ Install  CodeProject.AI **cpu** version:
 docker pull codeproject/ai-server:latest
 ```
 
-### Use gpu:
+### Use gpu:💪
 ```cmd
 docker run -d -p 32168:32168 --gpus all codeproject/ai-server:latest
 ```
