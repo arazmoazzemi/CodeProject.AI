@@ -74,3 +74,32 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 ### [Setting up Facial Recognition in Blue Iris](https://www.codeproject.com/Articles/5348246/CodeProject-AI-Server-Blue-Iris-and-Face-Recogniti)
 
+
+
+
+
+
+### MotionEye
+
+https://github.com/motioneye-project/motioneyeos/releases
+
+https://photobyte.org/raspberry-pi-motioneyeos-with-blueiris-security/
+
+Hikvision
+Main : /Streaming/Channels/1
+Sub : /Streaming/Channels/2
+
+KDT
+Main : /mode=real&idc=1&ids=1
+Sub : /mode=real&idc=1&ids=2
+
+
+
+
+
+
+
+
+
+
+
