@@ -81,7 +81,7 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 ### MotionEye
 
-https://github.com/motioneye-project/motioneyeos/releases
+[Download MotionEye ISO](https://github.com/motioneye-project/motioneyeos/releases)
 
 https://photobyte.org/raspberry-pi-motioneyeos-with-blueiris-security/
 
