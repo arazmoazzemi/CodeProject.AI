@@ -87,14 +87,14 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 
 
-BlueIris Hikvision Stream Example:
+BlueIris Hikvision IPCAM Stream Example:
 
 Main : /Streaming/Channels/1
 Sub : /Streaming/Channels/2
 
 
 
-KDT
+BlueIris KDT IPCAM Stream Example:
 Main : /mode=real&idc=1&ids=1
 Sub : /mode=real&idc=1&ids=2
 
