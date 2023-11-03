@@ -145,6 +145,20 @@ Sub : /mode=real&idc=1&ids=2
 01 - Enable log at blueiris 
 
 
+
+
+02 - Install prometheus with docker:
+
+```
+docker pull prom/prometheus
+
+docker run -d -p 9090:9090 prom/prometheus
+
+Change prometheus config and restart:
+
+```
+
+
 https://github.com/wymangr/blueiris_exporter
 
 blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
@@ -167,13 +181,7 @@ blueiris_exporter-amd64.exe --service.start
 
 
 
-docker pull prom/prometheus
 
-
-docker run -d -p 9090:9090 prom/prometheus
-
-
-Change prometheus config and restart:
 
 
 --------------------------------------
