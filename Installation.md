@@ -165,11 +165,9 @@ You can also check container logs:
 ```
 docker logs <container-name>
 ```
+reboot container
 
-
-
-
-
+### Run prometheus node exporter(windows host):
 
 https://github.com/wymangr/blueiris_exporter
 
