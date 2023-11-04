@@ -17,17 +17,18 @@
 
 ---
 
-3. Install CUDA Deep Neural Network with script(cuDNN):
-
-- [cuDNN](https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip)
-
----
-
-4. Install visual studio IDE:
+3. Install visual studio IDE:
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
 - Install   __Desktop develepment with C++__  section
+
+---
+
+4. Install CUDA Deep Neural Network with script(cuDNN):
+
+- [cuDNN](https://www.codeproject.com/KB/Articles/5322557/install_CUDnn.zip)
+
 
 ---
 
