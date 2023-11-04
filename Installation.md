@@ -194,13 +194,7 @@ blueiris_exporter-amd64.exe --service.stop
 blueiris_exporter-amd64.exe --service.uninstall
 
 
-
-
-
-
-
-
---------------------------------------
+---
 grafana
 
 docker pull grafana/grafana
@@ -208,12 +202,12 @@ docker pull grafana/grafana
 docker run -d --name=grafana -p 3000:3000 grafana/grafana
 
 
--------------------------------------
-grafana loki
+---
+mqtt
 
-docker pull grafana/loki
+[Documention](https://grafana.com/grafana/plugins/grafana-mqtt-datasource/?tab=installation)
+grafana-cli plugins install grafana-mqtt-datasource
 
-docker run -d --name=loki -p 3100:3100 grafana/loki
 
 
 
