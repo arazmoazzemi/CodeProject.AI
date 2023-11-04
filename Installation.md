@@ -143,7 +143,7 @@ Sub : /mode=real&idc=1&ids=2
 ---
 
 
-### BlueIris Monitoring
+### BlueIris Monitoring with docker, Prometheus and grafana:
 
 01 - Enable log at blueiris 
 
