@@ -125,7 +125,7 @@ Video Main stream: /mjpeg.cgi
 Main : /Streaming/Channels/1
 Sub : /Streaming/Channels/2
 ```
----
+--
 
 ### BlueIris KDT IPCAM Stream Example:
 ```config
@@ -133,7 +133,7 @@ Main : /mode=real&idc=1&ids=1
 Sub : /mode=real&idc=1&ids=2
 ```
 
-----
+--
 
 
 ### BlueIris Monitoring with docker, Prometheus and grafana(windows host): 📈📉📊
