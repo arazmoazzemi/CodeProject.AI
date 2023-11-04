@@ -197,11 +197,10 @@ blueiris_exporter-amd64.exe --service.uninstall
 
 ---
 grafana
-
+```cmd
 docker pull grafana/grafana
-
 docker run -d --name=grafana -p 3000:3000 grafana/grafana
-
+```
 
 ---
 mqtt
