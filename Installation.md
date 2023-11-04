@@ -184,6 +184,8 @@ http://127.0.0.1:2112/metrics
 --telemetry.addr=:1234
 ```
 
+---
+
 #### Install service:
 ```cmd
 blueiris_exporter-amd64.exe --service.install --logpath=d:\BlueIris\log --telemetry.addr=:2112
