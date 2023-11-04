@@ -90,12 +90,7 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 ```
 ----
 
-
-
 ### [Setting up Facial Recognition in Blue Iris](https://www.codeproject.com/Articles/5348246/CodeProject-AI-Server-Blue-Iris-and-Face-Recogniti)
-
-
-
 
 ---
 
