@@ -151,6 +151,8 @@ docker run -d -p 9090:9090 prom/prometheus
 ```
 ### config prometheus node exporter and restart docker service:
 
+You can also check container logs:
+docker logs <container-name>
 
 
 
