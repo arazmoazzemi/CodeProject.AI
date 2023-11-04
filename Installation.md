@@ -155,9 +155,13 @@ docker pull prom/prometheus
 
 docker run -d -p 9090:9090 prom/prometheus
 
-Change prometheus config and restart:
-
 ```
+### config prometheus and restart docker service:
+
+
+
+
+
 
 
 https://github.com/wymangr/blueiris_exporter
