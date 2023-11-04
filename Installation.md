@@ -157,7 +157,7 @@ vi /etc/prometheus/prometheus.yml
 # add node exorter ip address and port number:
 
 static_configs:                      
-      - targets: ["192.168.200.99:9090"]
+      - targets: ["192.168.200.99:2112"]
 
 ```
 
