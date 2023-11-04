@@ -88,11 +88,11 @@ Simple Docker launch cpu:
 ```cmd
 docker run -d -p 32168:32168 codeproject/ai-server:gpu
 ```
-----
+---
 
 ### 👉 [Setting up Facial Recognition in Blue Iris](https://www.codeproject.com/Articles/5348246/CodeProject-AI-Server-Blue-Iris-and-Face-Recogniti)👈
 
-----
+---
 
 ### MotionEye
 If you got a raspberry pi and webcam, You can use them instead of an ipcamera for face recognition:
@@ -101,7 +101,7 @@ If you got a raspberry pi and webcam, You can use them instead of an ipcamera fo
 
 [Raspberry Pi MotioneyeOS with BlueIris Security](https://photobyte.org/raspberry-pi-motioneyeos-with-blueiris-security)
 
-----
+---
 
 ### ***MotionEye BlueIris configuration:***
 
@@ -195,14 +195,16 @@ blueiris_exporter-amd64.exe --service.stop
 blueiris_exporter-amd64.exe --service.uninstall
 ```
 
-----
+---
+
 grafana
 ```cmd
 docker pull grafana/grafana
 docker run -d --name=grafana -p 3000:3000 grafana/grafana
 ```
 
-----
+---
+
 mqtt
 
 [Documention](https://grafana.com/grafana/plugins/grafana-mqtt-datasource/?tab=installation)
