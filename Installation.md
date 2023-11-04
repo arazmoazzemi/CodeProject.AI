@@ -179,15 +179,19 @@ Example:
 http://127.0.0.1:2112/metrics
 
 
-change port:
+#### change port:
 --telemetry.addr=:1234
 
 
+#### Install service:
 
-Install service:
-
-blueiris_exporter-amd64.exe --service.install --logpath=C:\BlueIris\log --telemetry.addr=:1234
+blueiris_exporter-amd64.exe --service.install --logpath=d:\BlueIris\log --telemetry.addr=:2112
 blueiris_exporter-amd64.exe --service.start
+
+#### Stop & Uninstall service:
+
+blueiris_exporter-amd64.exe --service.stop
+blueiris_exporter-amd64.exe --service.uninstall
 
 
 
