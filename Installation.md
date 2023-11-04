@@ -103,7 +103,7 @@ If you got a raspberry pi and webcam, You can use them instead of an ipcamera fo
 
 ---
 
-### ***BlueIris configuration:***
+### ***MotionEye BlueIris configuration:***
 
 http://192.168.0.123:8081
 
