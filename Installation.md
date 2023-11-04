@@ -103,6 +103,7 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 ---
 
 ### MotionEye
+If you got a raspberry pi and webcam, You can use them instead of an ipcamera for face recognition:
 
 [Download MotionEye ISO](https://github.com/motioneye-project/motioneyeos/releases)
 
