@@ -168,8 +168,10 @@ docker logs <container-name>
 reboot container
 
 ### Run prometheus node exporter(windows host):
+[Help](https://github.com/wymangr/blueiris_exporter)
 
-https://github.com/wymangr/blueiris_exporter
+Download node exporter
+
 
 blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
 
