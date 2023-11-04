@@ -151,8 +151,20 @@ docker run -d -p 9090:9090 prom/prometheus
 ```
 ### config prometheus node exporter and restart docker service:
 
+```
+vi /etc/prometheus/prometheus.yml
+
+# add node exorter ip address and port number:
+
+static_configs:                      
+      - targets: ["192.168.200.99:9090"]
+
+```
+
 You can also check container logs:
+```
 docker logs <container-name>
+```
 
 
 
