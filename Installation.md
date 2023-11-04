@@ -170,7 +170,7 @@ reboot container
 ### Run prometheus node exporter(windows host):
 [Help](https://github.com/wymangr/blueiris_exporter)
 
-Download node exporter
+[Download node exporter](https://github.com/wymangr/blueiris_exporter/releases)
 
 
 blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
