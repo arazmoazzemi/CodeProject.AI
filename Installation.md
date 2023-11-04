@@ -145,10 +145,8 @@ Sub : /mode=real&idc=1&ids=2
 
 ### BlueIris Monitoring with docker, Prometheus and grafana: 📈📉📊
 
-1. Enable log at blueiris (Important)
-
-
-
+1. Enable log at blueiris (Important):
+In the Blue Iris Status (Click the wiggly graph line at the top of the BI page) menu, there is a Log tab on the left. There is a tick box at the bottom that I usually leave off, but you can tick to get those logs saved. On my pc it then saves the log to C:\BlueIris\log but you can change that to wherever you like.
 
 02 - Install prometheus with docker:
 
