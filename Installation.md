@@ -149,7 +149,7 @@ docker pull prom/prometheus
 docker run -d -p 9090:9090 prom/prometheus
 
 ```
-### config prometheus and restart docker service:
+### config prometheus node exporter and restart docker service:
 
 
 
