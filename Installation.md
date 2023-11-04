@@ -167,26 +167,24 @@ docker logs <container-name>
 ```
 reboot container
 
+---
+
+### Prometheus node exporter
+- [Help](https://github.com/wymangr/blueiris_exporter)
+- [Download node exporter](https://github.com/wymangr/blueiris_exporter/releases)
+
 ### Run prometheus node exporter(windows host):
-[Help](https://github.com/wymangr/blueiris_exporter)
-
-[Download node exporter](https://github.com/wymangr/blueiris_exporter/releases)
-
 ```cmd
 blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
 ```
-
 http://127.0.0.1:2112/metrics
-
 
 #### change port:
 ```
 --telemetry.addr=:1234
 ```
 
----
-
-#### Install service:
+#### Install node exporter as a service:
 ```cmd
 blueiris_exporter-amd64.exe --service.install --logpath=d:\BlueIris\log --telemetry.addr=:2112
 blueiris_exporter-amd64.exe --service.start
@@ -197,7 +195,6 @@ blueiris_exporter-amd64.exe --service.stop
 blueiris_exporter-amd64.exe --service.uninstall
 ```
 
----
 
 grafana
 ```cmd
