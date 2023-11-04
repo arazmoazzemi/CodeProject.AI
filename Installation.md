@@ -172,27 +172,28 @@ reboot container
 
 [Download node exporter](https://github.com/wymangr/blueiris_exporter/releases)
 
-
+```cmd
 blueiris_exporter-amd64.exe --logpath=D:\BlueIris\log 
+```
 
-Example:
 http://127.0.0.1:2112/metrics
 
 
 #### change port:
+```
 --telemetry.addr=:1234
-
+```
 
 #### Install service:
-
+```cmd
 blueiris_exporter-amd64.exe --service.install --logpath=d:\BlueIris\log --telemetry.addr=:2112
 blueiris_exporter-amd64.exe --service.start
-
+```
 #### Stop & Uninstall service:
-
+```cmd
 blueiris_exporter-amd64.exe --service.stop
 blueiris_exporter-amd64.exe --service.uninstall
-
+```
 
 ---
 grafana
