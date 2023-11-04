@@ -110,6 +110,8 @@ docker run -d -p 32168:32168 codeproject/ai-server:gpu
 
 ---
 
+### ***BlueIris configuration:***
+
 http://192.168.0.123:8081
 
 MotionEye stream in BlueIris, you need to add a new camera and make the following settings in the video configuration panel:
