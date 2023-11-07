@@ -177,6 +177,10 @@ docker logs <container-name>
 ```
 reboot container
 
+
+Also you can install plugun for grafana:
+```bash
+grafana-cli plugins install grafana-clock-panel
 ---
 
 ### Prometheus node exporter
