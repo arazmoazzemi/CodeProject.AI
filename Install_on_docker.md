@@ -237,10 +237,17 @@ grafana-cli plugins install grafana-mqtt-datasource
     codeproject/ai-server:rpi64 A version specifically for Raspberry Pi Arm64 devices. This contains an object detection module suited for low resource systems.
 
 ```
-
-
 ---
 
+Example for use GPU in linux:
+
+```Terminal
+docker run --name CodeProject.AI -d -p 32168:32168 --gpus all \
+ --mount type=bind,source=/etc/codeproject/ai,target=/etc/codeproject/ai \
+ --mount type=bind,source=/opt/codeproject/ai,target=/app/modules \
+   codeproject/ai-server:cuda11_7
+
+```
 
 
 
