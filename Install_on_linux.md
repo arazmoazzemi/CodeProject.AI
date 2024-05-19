@@ -18,7 +18,7 @@ sudo dpkg -i codeproject.ai-server_2.6.2_Ubuntu_x64.deb
 bash /usr/bin/codeproject.ai-server/start.sh
 ```
 
-### Accessing the CodeProject.AI Server Dashboard [ http://localhost:32168]
+### Accessing the CodeProject.AI Server Dashboard (http://localhost:32168)
 
 
 
