@@ -18,7 +18,10 @@ sudo dpkg -i codeproject.ai-server_2.6.2_Ubuntu_x64.deb
 bash /usr/bin/codeproject.ai-server/start.sh
 ```
 
-
+ ### uninstall CodeProject.AI
+ ```bash
+sudo dpkg -r codeproject.ai-server
+```
 
 
 
