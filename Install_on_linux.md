@@ -1,3 +1,4 @@
+[Install On Linux](https://www.codeproject.com/ai/docs/install/install_on_linux.html)
 
 ```bash
 sudo apt update && sudo apt install dotnet-sdk-7.0
