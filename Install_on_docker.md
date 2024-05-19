@@ -227,7 +227,7 @@ grafana-cli plugins install grafana-mqtt-datasource
 
 ---
 
-### [CodeProject.AI Server images](https://www.codeproject.com/ai/docs/install/running_in_docker.html)
+### [CodeProject.AI Server images lnk:](https://www.codeproject.com/ai/docs/install/running_in_docker.html)
 
 ```bash
     codeproject/ai-server The basic CPU-only server for x64 systems
