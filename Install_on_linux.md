@@ -20,14 +20,14 @@ bash /usr/bin/codeproject.ai-server/start.sh
 
 ### Accessing the CodeProject.AI Server Dashboard (http://localhost:32168)
 
-
+---
 
  ### uninstall CodeProject.AI
  ```bash
 sudo dpkg -r codeproject.ai-server
 ```
 
-
+---
 
 
 
