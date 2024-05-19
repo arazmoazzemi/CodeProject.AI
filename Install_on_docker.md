@@ -227,16 +227,14 @@ grafana-cli plugins install grafana-mqtt-datasource
 
 ---
 
-### CodeProject.AI Server images:
+### [CodeProject.AI Server images](https://www.codeproject.com/ai/docs/install/running_in_docker.html)
 
 ```bash
-
     codeproject/ai-server The basic CPU-only server for x64 systems
     codeproject/ai-server:cuda11_7 A GPU (NVIDIA CUDA 11.7) enabled version x64 systems. This image will also run on non-GPU systems.
     codeproject/ai-server:cuda12_2 A GPU (NVIDIA CUDA 12.2) enabled version x64 systems. This image will also run on non-GPU systems.
     codeproject/ai-server:arm64 An image built for Arm64 chipsets such as the Raspberry Pi or Apple Silicon devices.
     codeproject/ai-server:rpi64 A version specifically for Raspberry Pi Arm64 devices. This contains an object detection module suited for low resource systems.
-
 
 ```
 
