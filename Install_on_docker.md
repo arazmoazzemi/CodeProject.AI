@@ -239,7 +239,7 @@ grafana-cli plugins install grafana-mqtt-datasource
 ```
 ---
 
-Example for use GPU in linux:
+### Example for use GPU in linux:
 
 ```Terminal
 docker run --name CodeProject.AI -d -p 32168:32168 --gpus all \
@@ -248,7 +248,19 @@ docker run --name CodeProject.AI -d -p 32168:32168 --gpus all \
    codeproject/ai-server:cuda11_7
 
 ```
+### Example for use GPU ins windows
 
+```cmd
+docker pull codeproject/ai-server:cuda11_7
+```
+
+```cmd
+docker run --name CodeProject.AI -d -p 32168:32168 --gpus all ^
+ --mount type=bind,source=C:\ProgramData\CodeProject\AI\docker\data,target=/etc/codeproject/ai ^
+ --mount type=bind,source=C:\ProgramData\CodeProject\AI\docker\modules,target=/app/modules ^
+   codeproject/ai-server:cuda11_7
+
+```
 
 
 
